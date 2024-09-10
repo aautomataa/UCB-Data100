@@ -1,2 +1,2 @@
-# UCB-C100
+# UCB-Data100
 self-learning program
